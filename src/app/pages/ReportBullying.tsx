@@ -58,7 +58,7 @@ export default function ReportBullying() {
 
         <Card>
           <CardHeader>
-            <CardTitle className="text-3xl">Дээрэлхэх Тухай Мэдээлэх</CardTitle>
+            <CardTitle className="text-3xl">Дээрэлхэлтийн Тухай Мэдээлэх</CardTitle>
             <p className="text-gray-600">Тохиолдсон явдлын дэлгэрэнгүй мэдээлэл илгээх</p>
           </CardHeader>
           <CardContent>
